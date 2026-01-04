@@ -1,5 +1,40 @@
-# 💫 About Me:
-👋 Hi, I’m Nishant Patel<br><br>I’m a passionate Full-Stack Web & App Developer from Rajkot, Gujarat (India) 🇮🇳<br>I love building scalable, modern, and user-friendly products with clean code and great UX.<br>🚀 What I Do<br>🌐 Build Web Apps using React, Next.js, Node.js, Express<br>📱 Develop Android Apps<br>🗄️ Work with MongoDB, MySQL<<br>⚡ Create APIs, dashboards, admin panels & SaaS products<br>🤖 Experiment with AI-powered tools & automation<br>🛠 Tech Stack<br>Frontend: React.js, Next.js, Tailwind CSS, Framer Motion<br>Backend: Node.js, Express, Laravel<br>Database: MongoDB, MySQL<br>Tools: Git, GitHub, Docker, Vercel, Firebase<br>Other: REST APIs, Authentication, Payment Gateways<br>💡 Current Focus<br>Building real-world products and open-source projects<br>Improving performance, scalability & UI/UX<br>Exploring AI integrations in web apps<br>🤝 Let’s Collaborate<br>I’m open to:<br>Freelance projects<br>Startup collaborations<br>Open-source contributions<br>📫 Reach me at:<br>Portfolio: https://nishantpatel.me<br>Email / DM anytime on GitHub
+# 👋 Hi, I’m Nishant Patel  
+
+I’m a passionate **Full-Stack Web & App Developer** from **Rajkot, Gujarat (India)** 🇮🇳  
+I love building scalable, modern, and user-friendly products with clean code and great UX.
+
+## 🚀 What I Do
+- 🌐 Build **Web Apps** using **React, Next.js, Node.js, Express**
+- 📱 Develop **Android Apps**
+- 🗄️ Work with **MongoDB, MySQL**
+- ⚡ Create **APIs, dashboards, admin panels & SaaS products**
+- 🤖 Experiment with **AI-powered tools & automation**
+
+## 🛠 Tech Stack
+- **Frontend:** React.js, Next.js, Tailwind CSS, Framer Motion  
+- **Backend:** Node.js, Express, Laravel  
+- **Database:** MongoDB, MySQL  
+- **Tools:** Git, GitHub, Docker, Vercel, Firebase  
+- **Other:** REST APIs, Authentication, Payment Gateways  
+
+## 💡 Current Focus
+- Building **real-world products** and open-source projects  
+- Improving **performance, scalability & UI/UX**  
+- Exploring **AI integrations** in web apps  
+
+## 🤝 Let’s Collaborate
+I’m open to:
+- Freelance projects  
+- Startup collaborations  
+- Open-source contributions  
+
+## 📫 Contact
+- 🌐 Portfolio: [https://nishantpatel.me](https://nishantpatel.me)  
+- 💬 Feel free to reach out via GitHub or email  
+
+---
+⭐ *Always learning, always building.*
+
 
 
 ## 🌐 Socials:
